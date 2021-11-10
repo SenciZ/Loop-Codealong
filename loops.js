@@ -26,6 +26,10 @@ for (let i = 0; i < 7; i++) {
   }
 }
 
+for (let i = 10; i >= 0; i--) {
+    console.log(i);
+  }
+
 // if(jonSnowHealth <= 0){
 //     console.log('Jon Snow has perished in battle')
 // } else {
